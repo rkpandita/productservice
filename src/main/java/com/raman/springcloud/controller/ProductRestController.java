@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.raman.springcloud.dto.Coupon;
 import com.raman.springcloud.model.Product;
 import com.raman.springcloud.repo.ProductRepo;
-import com.raman.springcloud.restclients.CouponClient;
+import com.raman.springcloud.restclient.CouponClient;
 
 import io.github.resilience4j.retry.annotation.Retry;
 

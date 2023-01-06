@@ -1,4 +1,4 @@
-package com.raman.springcloud.restclients;
+package com.raman.springcloud.restclient;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
